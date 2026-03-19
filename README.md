@@ -47,6 +47,7 @@ pip install -r requirements.txt
 Create a .env file and add:
 
 GOOGLE_API_KEY=your_google_api_key
+
 ALPHA_VANTAGE_API_KEY=your_alpha_vantage_key
 
 5️⃣ Run the app
